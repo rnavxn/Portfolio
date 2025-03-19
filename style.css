@@ -4,13 +4,24 @@ body {
     padding: 0;
     background-color: #f8f9fa;
     color: #333;
+    textbody {
+    font-family: Arial, sans-serif;
     text-align: center;
+    margin: 50px;
+    background-color: #978f8f;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    /* font-size: larger; */
 }
 
 header {
-    background-color: #007bff;
+    background-color: steelblue;
     color: white;
     padding: 20px;
+    text-shadow: #333;
 }
 
 section {
